@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hello there ✌🏼
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
+My name is Tyler Machek. I'm 24, hapily married, and a total nerd at heart. Technology has always been in my life and has always peaked my interest. Whether if it was video games, setting up my own devices, servers, or even my first VM. Now I'm ready to take off my career by exploring cloud computing and learning how to use AWS, Python, and Terraform. Check out all my progress below:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Tyler%20Machek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylermachek98)](https://www.linkedin.com/in/tylermachek98)
+[![Medium Badge](https://img.shields.io/badge/Tyler%20Machek-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tylermachek98)](https://medium.com/@tylermachek98)
+[![Gmail Badge](https://img.shields.io/badge/-tmachek98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmachek98@gmail.com)](mailto:tmachek98@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +25,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tmachek98&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmachek98&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=tmachek98%2Ftmachek98=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=tmachek98%2Ftmachek98)
